@@ -1,0 +1,6 @@
+# ¿Programar es difícil?
+Cuando comenzamos a programar, se nos presentan ciertas reglas simples al principio, como tipos de datos, imprimir algo en consola, o mostrar una imagen en el navegador. Sin embargo, en la vida real, estos programas son si solos no resuelven nada, tienen un objetivo meramente educativo.
+
+Pero los problemas de la vida real no son tan simples, y cuando construimos una solución, poco a poco, incrementará la complejidad de nuestro programa. En ese momento, aparecerán las dificultades que nos plantea el desarrollo de software, porque requeriremos más conocimientos y habilidades, pero sobre todo paciencia porque las personas cometemos errores y la frustración esta a la vuelta de la esquina.
+
+Entonces ¿programar es difícil?, pues como todo en la vida, cualquier cosa que valga la pena, requerirá de esfuerzo y tiempo, y no siempre será fácil. Pero aprender a superar los obstáculos y desarrollar esas habilidades nos permitirá tener la capacidad de construir soluciones que nos ayuden a resolver problemas de las personas.
