@@ -20,3 +20,8 @@ Number.MAX_SAFE_INTEGER
 Number.MIN_SAFE_INTEGER
 -9007199254740991
 ```
+
+# Números especiales
+Infinity es un número especial que representa el infinito, al igual que -Infinity. Al realizar operaciones aritméticas con infinitos, el resultado también es infinito.
+
+NaN es un número especial que representa un valor no válido, es decir, un número que no es un número real. Por ejemplo, dividir 0/0 no da un NaN.
