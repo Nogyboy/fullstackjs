@@ -9,3 +9,8 @@ console.log(typeof bool1);
 console.log(10 > 5);
 
 console.log("Aardvark" < "Zoroaster")
+
+// Solo hay un valor en JavaScript que no es igual a si mismo
+console.log(NaN == NaN);
+
+console.log("Garnet" != "Ruby");
