@@ -16,4 +16,4 @@ Comparación es un operador binario que compara dos valores y devuelve un boolea
 console.log("Aardvark" < "Zoroaster")
 ```
 
-Esto imprime true en la consola. La forma en que los strings son ordenados es alfabético, pero no como comúnmente pensamos. Las letras mayúsculas siempre son menores que las minúsculas, e incluso que los caracteres especiales.s
+Esto imprime true en la consola. La forma en que los strings son ordenados es alfabético, pero no como comúnmente pensamos. Las letras mayúsculas siempre son menores que las minúsculas, e incluso que los caracteres especiales.

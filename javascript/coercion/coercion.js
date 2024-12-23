@@ -10,3 +10,17 @@ console.log(false == 0)
 // → true
 console.log(false === 0)
 // → false
+
+
+// NaN
+console.log(NaN == NaN)
+// → false
+
+console.log(null == undefined)
+// → true
+console.log(undefined == null)
+// → true
+
+
+// Sin coerción
+console.log("" === false)
